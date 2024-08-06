@@ -1,10 +1,11 @@
-# about me
+# About Me
 
-## Nathan Collins
+I'm Nathaniel Collins.
 
-Scientist, programmer, and humanitarian; motivated by a deep vocation to contribute to meaningful action in my community, while promoting socially just outcomes.
+I work primarily as a scientist, programmer, and humanitarian. 🌟  
+I am motivated by a deep vocation to contribute to meaningful action in my community, while promoting socially just outcomes. 🌍
 
-### education
+### Education 🎓
 - **Master of Data Science**  
   University of Technology, Sydney
 - **Honours Degree in Biomedical Science**  
@@ -12,8 +13,8 @@ Scientist, programmer, and humanitarian; motivated by a deep vocation to contrib
 - **Post-Graduate Diploma in Medical Science and Health Science**  
   University of Sydney
 
-### other
+### Other 📸
 I take photographs and publish them at: [our.gallery](https://our.gallery)
 
-### linkedIn
+### LinkedIn 🔗
 [LinkedIn](https://www.linkedin.com/in/nathan-collins/)
